@@ -10,4 +10,5 @@ python3 target.py
 
 扫描结果在本地result.txt
 
-https://github.com/ZzFfei/Batch-backup-file-scanning/blob/main/1.png
+![image](https://github.com/ZzFfei/Batch-backup-file-scanning/blob/main/1.png)
+
